@@ -1,0 +1,24 @@
+{
+  "allowMovement": {
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true,
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "net.minecraft.class_5375": true,
+    "com.wildfire.gui.screen.WildfireFirstTimeSetupScreen": true,
+    "com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+    "com.wildfire.gui.screen.WildfireCloudSyncScreen": true,
+    "com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "fi.dy.masa.litematica.gui.GuiMainMenu": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "fi.dy.masa.litematica.gui.GuiConfigs": true
+  },
+  "hideBackground": {
+    "com.wildfire.gui.screen.WildfireFirstTimeSetupScreen": true,
+    "com.wildfire.gui.screen.WardrobeBrowserScreen": true,
+    "com.wildfire.gui.screen.WildfireCloudSyncScreen": true,
+    "com.wildfire.gui.screen.WildfireBreastCustomizationScreen": true
+  }
+}

@@ -1,0 +1,112 @@
+{
+    "schema_version": 2,
+    "failed_reloads_per_session": 5,
+    "default_packs": [
+        "file/Overgrown Moss Carpet 2.2.zip",
+        "file/Actually 3D Stuff.zip",
+        "file/Visual Effects+.zip",
+        "file/Glowing+Ender+Dragon.zip",
+        "file/Glowing Enchanted Tools.zip",
+        "file/Fire_Rekindled.zip",
+        "file/EvenBetterEnchants_v2_1.21.5+.zip",
+        "file/Eating Animation.zip",
+        "file/Cubic Leaves 2.0 (performance).zip",
+        "file/Chat+v.1.2.zip",
+        "file/Better Lanterns v1.2 - 1.21.5.zip",
+        "file/Ben's Bundles 1.3.zip",
+        "file/[1.21.5] Fat Cats v1.0.zip",
+        "file/Simple Grass Flowers v1.9.5.zip",
+        "file/ShivaKlans' animated textures.zip",
+        "file/Rethoughted Trident.zip",
+        "file/Rethoughted Elytra.zip",
+        "file/Rethoughted Dragon Egg.zip",
+        "file/PDB3D's Blocky Armor Stand AV.zip",
+        "file/Icons v.1.12.1.zip",
+        "better-snow-coverage:z-fighting",
+        "file/cubic-sun-moon-v1.8.4a.zip",
+        "file/armory-conglomery-v2.1.zip",
+        "file/Xaero's Vanilla GUI.zip",
+        "file/\u00A7eTorches\u00A78-\u00A7eReimagined\u00A70_\u00A78[v1.7.1]\u00A70.zip",
+        "file/enchant icons 1.21.5 v1.3.zip",
+        "minecraft-cursor:cursors_extended",
+        "subtle_effects:biome_color_water_particles",
+        "file/Better Click Sound.zip",
+        "file/Pato's 3D Brews 2.2.zip",
+        "file/NewGlowingOres-\u00A76[Border]\u00A7r.zip",
+        "file/\u00A7a\u00A7lVocal Villagers \u00A7r\u00A771.2.zip",
+        "file/Angel's_Weather_v1.9.1.1hf.zip",
+        "file/mobs-refreshed-fa-v2.2.1.zip",
+        "file/Unique Dark - Lite - 1.20.2-1.21.x.zip",
+        "file/\u00A79Bray's Zombie Overhaul FA v1.3.zip",
+        "file/FA+Creepers-v2.0.zip",
+        "file/\u00A7bTools\u00A78-\u00A7bReimagined\u00A70_\u00A78[v1]\u00A70.zip",
+        "file/Os' Colorful Grasses (Mix).zip",
+        "file/ui_resprite-1.0.1-resourcepack-1.21.4.zip",
+        "file/\u00A7bTools\u00A78-\u00A7bReimagined\u00A70_\u00A78[v1]\u00A70.zip",
+        "file/[1.4] EDDSE (Oppenheimer).zip",
+        "file/cobble100ne.zip",
+        "file/Fresh Buckets 1.1.2.zip",
+        "file/Fresh Food 1.2.6.zip",
+        "file/Pato's 3D Brews 2.2.zip",
+        "file/Fresh Music Discs 1.2.4.zip",
+        "file/Connected Paths v1.3.zip",
+        "file/Fresh AI Tweaks 1.21.5-8.zip",
+        "file/Pings+.zip",
+        "file/Fancy Crops v1.3.zip",
+        "file/Visual-Leaf.zip"
+    ],
+    "default_overrides": {
+        "force_compatible": true
+    },
+    "pack_overrides": {
+        "group1": [
+            "file/FA+All_Extensions-v1.6.zip",
+            "file/FA+Details-v2.0.zip",
+            "file/FA+Emissive-v1.4.zip",
+            "file/FreshAnimations_v1.10.1.zip",
+            "file/Fresh Animations x Baby Animals Remastered v0.1.zip",
+            "file/\u00A74Drodi's Blazes FA [V1.2].zip",
+            "file/DetailedAnimationsReworked - V1.15 PATCH.zip",
+            "file/\u00A79Drodi's Illagers x FA [v5.1].zip"
+        ],
+        "$$group1": {
+            "title": "\"Анимации\"",
+            "description": "\"Анимации мобов,игрока и тд.\"",
+            "fixed_position": true,
+            "required": true,
+            "default_position": "BOTTOM"
+        },
+        "musthave": [
+            "file/Mod Menu Helper.zip",
+            "black_icons",
+            "continuity:default",
+            "continuity:glass_pane_culling_fix",
+            "controlify:legacy_console",
+            "file/Chat Reporting Helper (1).zip",
+            "file/SodiumTranslations (1).zip"
+        ],
+        "$$musthave": {
+            "title": "\"musthave\"",
+            "description": "\"Дефолт который не должен меняться\"",
+            "fixed_position": false,
+            "required": true,
+            "default_position": "BOTTOM",
+            "hidden": false
+        },
+        "file/Fresh Buckets 1.1.2.zip": {
+            "default_position": "TOP"
+        },
+        "file/Fresh Food 1.2.6.zip": {
+            "default_position": "TOP"
+        },
+        "file/Pato's 3D Brews 2.2.zip": {
+            "default_position": "TOP"
+        },
+        "file/Fresh Music Discs 1.2.4.zip": {
+            "default_position": "TOP"
+        },
+        "file/armory-conglomery-v2.1.zip": {
+            "default_position": "TOP"
+        }
+    }
+}

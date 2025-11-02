@@ -1,0 +1,18 @@
+{
+	"username": "ac86af36-2fec-4be3-b1b3-758680b811fa",
+	"gender": 0,
+	"bust_size": 0.8,
+	"hurt_sounds": false,
+	"breasts_xOffset": -0.06849315,
+	"breasts_yOffset": -0.06849315,
+	"breasts_zOffset": 0.0,
+	"breasts_uniboob": true,
+	"breasts_cleavage": 0.0,
+	"breast_physics": true,
+	"armor_physics_override": true,
+	"show_in_armor": true,
+	"bounce_multiplier": 0.5,
+	"floppy_multiplier": 0.90753424,
+	"voice_pitch": 1.1972604,
+	"holiday_themes": true
+}
