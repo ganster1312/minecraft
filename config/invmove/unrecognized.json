@@ -13,7 +13,17 @@
     "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
     "fi.dy.masa.litematica.gui.GuiMainMenu": true,
     "xaero.common.gui.GuiWaypoints": true,
-    "fi.dy.masa.litematica.gui.GuiConfigs": true
+    "fi.dy.masa.litematica.gui.GuiConfigs": true,
+    "de.maxhenkel.voicechat.gui.volume.AdjustVolumesScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatSettingsScreen": true,
+    "de.maxhenkel.voicechat.gui.audiodevice.SelectSpeakerScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "net.minecraft.class_410": true,
+    "dev.dediamondpro.resourcify.gui.browsepage.BrowseScreen": true,
+    "dev.dediamondpro.resourcify.gui.projectpage.ProjectScreen": true,
+    "net.minecraft.class_8219": true
   },
   "hideBackground": {
     "com.wildfire.gui.screen.WildfireFirstTimeSetupScreen": true,
