@@ -1,8 +1,8 @@
 {
   "pingVolume": 100,
-  "pingDuration": 7,
+  "pingDuration": 4,
   "pingDistance": 2048,
-  "correctionPeriod": 1.0,
+  "correctionPeriod": 0.1,
   "itemIconVisible": true,
   "directionIndicatorVisible": true,
   "playerInfoMode": "HOLD",

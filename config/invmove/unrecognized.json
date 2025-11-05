@@ -23,7 +23,10 @@
     "net.minecraft.class_410": true,
     "dev.dediamondpro.resourcify.gui.browsepage.BrowseScreen": true,
     "dev.dediamondpro.resourcify.gui.projectpage.ProjectScreen": true,
-    "net.minecraft.class_8219": true
+    "net.minecraft.class_8219": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "nx.pingwheel.common.screen.SettingsScreen": true
   },
   "hideBackground": {
     "com.wildfire.gui.screen.WildfireFirstTimeSetupScreen": true,

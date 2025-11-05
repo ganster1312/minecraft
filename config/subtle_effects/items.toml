@@ -15,7 +15,7 @@ splashPotionClouds = true
 
 [itemRarity]
 particlesDisplayType = "ON"
-particleColorType = "NAME_COLOR"
+particleColorType = "RARITY_COLOR"
 mixedColorName = true
 useItemBorder = true
 colorOverrides = [  ]

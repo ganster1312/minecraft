@@ -1,0 +1,6 @@
+{
+    armorIconStyle: "chestplate",
+    halfHeartStyle: "reimaginedStyle",
+    reimaginedHotbar: true,
+    reimaginedXpBar: true
+}
